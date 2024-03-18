@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Reden Longcop</h1>
 <h3 align="center">A passionate QA Engineer from Philippines</h3>
-
+<center>
 - 🌱 I’m currently learning **Groovy automation and Java automation using Selenium**
 
 - 📫 How to reach me **redenlongcop5@gmail.com**
-
+</center>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/reden longcop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reden longcop" height="30" width="40" /></a>
