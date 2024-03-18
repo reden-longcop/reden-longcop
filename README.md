@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reden Longcop</h1>
 <h3 align="center">A passionate QA Engineer from Philippines</h3>
-<h6 align="center">
+<h5 align="center">
     🌱 I’m currently learning <b>Groovy automation and Java automation using Selenium</b><br>
     📫 How to reach me <b>redenlongcop5@gmail.com</b>
-</h6>
+</h5>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
