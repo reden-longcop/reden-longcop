@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Reden Longcop and I'm a QA Engineer!</h2>
-
+<center>
 # 💫 About Me:
 🔭 I’m currently working on IT Americano, Inc.<br>🌱 I’m currently learning Robot Framework, Pytest, and Selenium
 
@@ -16,3 +16,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Code-Me-N0t&icon=0&color=0)](https://visitcount.itsvg.in)
+</center>
