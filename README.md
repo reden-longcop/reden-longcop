@@ -33,6 +33,9 @@
 </div>
 
 ###
+<style>
+  a {text-decoration: none;}
+</style>
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=redenlongcop5@gmail.com">
